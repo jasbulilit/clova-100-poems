@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "lib": ["es2015"],
+    "module": "commonjs",
+    "strict": false,
+    "noImplicitReturns": true,
+    "outDir": "lib",
+    "sourceMap": false,
+    "target": "es5",
+    "typeRoots": [
+      "node_modules/@types"
+    ]
+  },
+  "compileOnSave": true,
+  "include": [
+    "src"
+  ]
+}

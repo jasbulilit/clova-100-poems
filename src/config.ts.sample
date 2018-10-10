@@ -1,0 +1,6 @@
+export const config = {
+  appName: '百人一首',
+  appId: "",
+  audioBaseUrl: "",
+  lineAccessToken: ""
+}
